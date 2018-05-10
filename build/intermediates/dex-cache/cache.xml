@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Libra\.android\build-cache\8a7fa38b4b57b85a9b01b0dda5588c1a24ba5e43\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\DATA\Documents\Personal\KotlinProjects\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb72a6dd6e547ed93caf5961a395d9328a8f3fbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Libra\.android\build-cache\de84830a1de585a0dc9e2aa1d0a759cb60e80246\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\DATA\Documents\Personal\KotlinProjects\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9252d7bf0992506018e9c02ab67081f111a1b8c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\DATA\Documents\Personal\KotlinProjects\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_8a57f9999ac2028dac427e00cd754d5fd09555e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Libra\.android\build-cache\f3e43e46818073cdf3608f6e14631e953c737bf6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\DATA\Documents\Personal\KotlinProjects\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78e864c536f191821e5abeeb1dcf0bd4433153a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DATA\Documents\Personal\KotlinProjects\TicTacToe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="834cb63d1dca00fc2bb5df8eaf25d5669758eb69">
+        <dex dex="D:\DATA\Documents\Personal\KotlinProjects\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c7f94b95a706c5b3c05535ae6773929e874c1855\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Libra\.android\build-cache\3d475e31f8c3862a21de273f29ffb0073eeb515b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\DATA\Documents\Personal\KotlinProjects\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b7e00c195c61b70902ef0023ec114aea16a6a67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Libra\.android\build-cache\a0c15fce8cc528d7e2d717ffd244b85c8a3b73cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\DATA\Documents\Personal\KotlinProjects\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72229a1db52b47e67c7191e0c3892f75d2043259\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Libra\.android\build-cache\e00acc5d0cc33d36dfbdd5a111db8b92ac48a871\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\DATA\Documents\Personal\KotlinProjects\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b110088df1d397d03122a690ab2b3687040f3ff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Libra\.android\build-cache\84d9e8f0881c76de2842e0745e4e118781371335\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\DATA\Documents\Personal\KotlinProjects\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2a6a2ccd024167fdbb1236352987071c8bdaffa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DATA\Documents\Personal\KotlinProjects\TicTacToe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="D:\DATA\Documents\Personal\KotlinProjects\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_efe41c7f9136a17a7ea146376ab46578080bfc77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Libra\.android\build-cache\0566b5766680ac4dd7274f8002c42a7f552221d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\DATA\Documents\Personal\KotlinProjects\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3ba35f483056941f202e3eeade7c68955c36780\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Libra\.android\build-cache\cd666e420f191cd75e9b0e3447f7868263e69ca5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\DATA\Documents\Personal\KotlinProjects\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1bab7145bdb37692896ceeb1eca98d42a92a0c1\classes.dex" />
+    </item>
+
+</items>
